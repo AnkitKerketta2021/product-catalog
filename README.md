@@ -27,12 +27,4 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── styles.css
-
-## Challenges
-1. Add a discountPercent field and display it.
-2. Give ProductBadge a variant prop.
-3. Add stock and render In stock / Out of stock without useState.
-4. Add a featured prop and style featured cards differently.
-5. Extract the price area into a ProductPrice component.
-
-Do not add Context, Redux, or a backend yet. Stay focused on props and reusable components.
+ 
